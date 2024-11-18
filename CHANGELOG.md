@@ -1,13 +1,13 @@
-# [unreleased](https://github.com/<author>/<my-package>/releases/tag/<the-tag>)
+# [unreleased](https://github.com/pluque01/modern-ugr-report/releases/tag/<the-tag>)
 ## Added
 
 ## Removed
 
 ## Changed
 
-## Migration Guide from v0.1.X
+## Migration Guide from v1.0.X
 
 ---
 
-# [v0.1.0](https://github.com/<author>/<my-package>/releases/tag/v0.1.0)
+# [v1.0.0](https://github.com/pluque01/modern-ugr-report/releases/tag/v1.0.0)
 Initial Release
